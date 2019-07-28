@@ -1,4 +1,4 @@
-package wugong;
+package wugong2;
 
 public class DuGuJiuJian {
 
@@ -6,7 +6,8 @@ public class DuGuJiuJian {
 		// TODO Auto-generated method stub
 
 		System.out.println("11111111111111111");
-		System.out.println("2222222222222222");11111
+		System.out.println("2222222222222222");
+		System.out.println("3333333333333333");
 
 	}
 
